@@ -53,7 +53,7 @@ Follow these steps to run the application locally.
    <p> 
     ng serve<br>
     
-    Navigate to `http://localhost:52144/`. The application will automatically reload if you change any of the source files.</p>
+    Navigate to `https://healthchallengetrack.netlify.app/`. The application will automatically reload if you change any of the source files.</p>
 
 <h3>Code Scaffolding</h3>
 <p>
